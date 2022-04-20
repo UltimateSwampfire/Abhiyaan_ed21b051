@@ -33,6 +33,7 @@ ED1021
 I feel giving well-defined tasks is a really good way anyone can improve.
 For example, before working on ROS for the first time, I didn't even understand what a Terminal/Command Line was. Now I'm working on ROS, somehow.
 Unfortunately I couldn't work on the bonus questions as all my time went to understanding ROS and it's every relevant detail :(
+I've not attached any code as all the time went into seeing what all the new Linux commands do, Why the tutorial code is what it is, What happens when we remove these portions of code, and similar stuff.
 
 Did you attempt bonus questions:
 1. No 2. No 3. No
